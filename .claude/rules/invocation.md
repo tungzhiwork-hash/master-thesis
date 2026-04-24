@@ -18,6 +18,11 @@
 # Structure Agent
 [STRUCTURE] Cập nhật tracker: Ch2 Cơ sở lý luận đã hoàn thành
 [STRUCTURE] Tôi còn thiếu gì để nộp Bài Tập Lớn?
+
+# Glossary Agent
+[GLOSSARY] Thêm term: Non-Performing Loan
+[GLOSSARY] Giải thích SHAP là gì?
+[GLOSSARY] Thêm loạt term: AUC-ROC, F1-score, precision, recall
 ```
 
 ## Tự động suy luận agent
