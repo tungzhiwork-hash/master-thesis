@@ -33,6 +33,14 @@ Lập bảng theo format chuẩn: STT | Tác giả | Năm | Tên nghiên cứu |
 - Gắn cờ cảnh báo nếu tài liệu từ tạp chí đáng nghi ngờ hoặc chưa peer-reviewed
 - Đề xuất research gap — làm rõ khoảng trống mà đề tài lấp đầy
 
+### Lưu paper mới vào `papers/`
+Sau khi tìm được paper đạt ngưỡng, thực hiện theo `skill/papers_management.md`:
+1. Tạo file `papers/<thư-mục>/<id>.md` theo schema YAML frontmatter
+2. Append 1 dòng vào `papers/index.md`
+3. Báo cáo: "Đã lưu: `<id>` → `papers/<thư-mục>/`"
+
+Nếu paper không đạt ngưỡng lọc (xem `skill/papers_management.md` → Tiêu chí lọc): báo cáo lý do, **không tạo file**.
+
 ## Baseline: 12 nghiên cứu đã có (không cần tìm lại)
 
 | STT | Tác giả | Năm | Chủ đề chính | Indexing |
